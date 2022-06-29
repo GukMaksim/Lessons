@@ -1,0 +1,106 @@
+.container {
+  width: 960px;
+  font-family: futurapt, Arial, sans-serif;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+.block {
+  padding: 40px 0;
+  border-bottom: 1px solid black;
+}
+.block:nth-last-child(1) {
+  border-bottom: none;
+}
+.block span {
+  font-weight: 700;
+  text-align: left;
+  color: #322847;
+  font-size: 20px;
+  line-height: 1.55;
+}
+a {
+  color: #ff8562;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 1.55;
+  font-weight: 300;
+}
+a.main {
+  font-weight: 700;
+  font-size: 34px;
+  text-decoration: underline;
+}
+.t1 {
+  font-weight: 400;
+  font-size: 18px;
+  color: #322847;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.t1.m1 {
+  background-color: burlywood;
+}
+.t1.m2 {
+  background-color: cadetblue;
+}
+.t1.m3 {
+  background-color: cornflowerblue;
+}
+.t1.m4 {
+  background-color: darkcyan;
+  color: white;
+}
+.t1.m5 {
+  background-color: darkolivegreen;
+  color: white;
+}
+.t1.m6 {
+  background-color: darkorchid;
+  color: white;
+}
+.t1.m7 {
+  background-color: deeppink;
+}
+.t1.m8 {
+  background-color: blue;
+  color: white;
+}
+.t2 {
+  font-weight: 700;
+  font-size: 34px;
+  color: #322847;
+  padding-top: 15px;
+}
+.t3 {
+  color: #322847;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 40px 0 54px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.t3 b {
+  color: #ff0000;
+  font-size: 20px;
+  font-weight: 700;
+}
+ul li {
+  text-align: left;
+  color: #322847;
+  font-size: 20px;
+  font-weight: 300;
+}
+video {
+  width: 860px;
+  height: 620px;
+  padding: 40px 0;
+}
